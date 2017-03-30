@@ -1,0 +1,71 @@
+body{
+  background-color: #d4e3fc;
+}
+
+h1{
+  font-size: 60px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+
+
+#picture1 {
+  position:relative;
+  display:inline-block;
+  align-items: left;
+  height: 300px;
+  width: 300px;
+  padding:20px;
+}
+
+#picture2 {
+height:300px;
+width:300px;
+padding:20px;
+position:relative;
+display:inline-block;
+align-items: left;
+}
+
+#picture3{
+  height:300px;
+  width:300px;
+  padding:20px;
+  position:relative;
+  display:inline-block;
+  align-items: left;
+}
+
+/*#giantdiv{
+  /*float: left;*/
+  /*margin-right:5px;
+}*/
+
+.cookie-div {
+  width: 450px;
+  float: right;
+}
+
+p{
+position:relative;
+text-align:center;
+right: 50px;
+font-size: 30px;
+}
+
+#deletediv{
+  position:relative;
+  text-align: center;
+}
+
+#deletediv{
+    clear: right;
+}
+#DELETE{
+  font-size: 40px;
+}
+
+button{
+  background-color: #f2988e;
+}
